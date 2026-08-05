@@ -1,0 +1,80 @@
+[2026-08-04 12:07:31] Viewed Memory Usage
+[2026-08-04 12:53:21] Backup Failed:  does not exist
+[2026-08-04 12:53:30] Viewed System Information
+[2026-08-04 12:53:39] Backup Failed:  does not exist
+[2026-08-04 14:19:50] Viewed CPU Resource Usage
+[2026-08-04 20:14:44] Backup Failed: /home/vadant does not exist
+[2026-08-04 20:15:20] Backup successful: /root/Linux-Autiomation-Toolkit/scripts/../backups/user-vedant-backup_20260804_201520.tar.gz
+[2026-08-04 20:15:48] Viewed System Information
+[2026-08-04 20:16:12] Backup Failed:  does not exist
+[2026-08-04 20:16:19] Backup Failed:  does not exist
+[2026-08-04 20:16:24] Backup Failed:  does not exist
+[2026-08-04 20:16:27] Backup Failed:  does not exist
+[2026-08-04 20:16:30] Backup Failed:  does not exist
+[2026-08-04 20:16:33] Backup Failed:  does not exist
+[2026-08-04 20:29:19] Analyzed log file: /var/log/secure
+[2026-08-04 20:31:02] Created user account: Nishant
+[2026-08-04 20:31:38] Analyzed log file: /var/log/secure
+[2026-08-04 20:41:00] Analyzed log file: /var/log/secure
+[2026-08-05 19:16:05] Analyzed log file: /var/log/secure
+[2026-08-05 19:20:41] Viewed CPU Resource Usage
+[2026-08-05 19:20:45] Viewed Memory Usage
+[2026-08-05 19:20:48] Viewed Disk Usage Information
+[2026-08-05 19:20:55] Listed Active Services
+[2026-08-05 19:20:58] Checked Failed Services
+[2026-08-05 19:21:00] Checked status for service: 
+[2026-08-05 19:21:05] Attempted restart on service: 
+[2026-08-05 19:21:07] Checked Failed Services
+[2026-08-05 19:21:09] Listed Active Services
+[2026-08-05 19:21:24] Created user account: Vedant
+[2026-08-05 19:21:32] Listed user accounts
+[2026-08-05 19:21:43] Deleted user account: 2
+[2026-08-05 20:00:20] Viewed System Information
+[2026-08-05 20:01:07] Viewed System Information
+[2026-08-05 20:01:12] Viewed CPU Resource Usage
+[2026-08-05 20:01:17] Viewed Memory Usage
+[2026-08-05 20:01:22] Viewed Disk Usage Information
+[2026-08-05 20:01:30] Listed Active Services
+[2026-08-05 20:01:35] Checked Failed Services
+[2026-08-05 20:01:44] Checked status for service: ssh
+[2026-08-05 20:02:03] Created user account: Vedant
+[2026-08-05 20:03:31] Viewed System Information
+[2026-08-05 20:03:35] Viewed CPU Resource Usage
+[2026-08-05 20:03:38] Viewed Memory Usage
+[2026-08-05 20:03:43] Viewed Disk Usage Information
+[2026-08-05 20:03:50] Listed Active Services
+[2026-08-05 20:03:54] Checked Failed Services
+[2026-08-05 20:04:01] Checked status for service: ssh
+[2026-08-05 20:04:25] Created user account: vedant
+[2026-08-05 20:06:13] Viewed System Information
+[2026-08-05 20:06:16] Viewed CPU Resource Usage
+[2026-08-05 20:06:20] Viewed Memory Usage
+[2026-08-05 20:06:24] Viewed Disk Usage Information
+[2026-08-05 20:06:31] Listed Active Services
+[2026-08-05 20:06:38] Checked status for service: ssh
+[2026-08-05 20:06:52] Created user account: vedant
+[2026-08-05 20:07:04] Deleted user account: vedant
+[2026-08-05 20:07:15] Analyzed log file: /var/log/secure
+[2026-08-05 20:07:20] Viewed Network Information
+[2026-08-05 20:11:07] Viewed System Information
+[2026-08-05 20:11:11] Viewed CPU Resource Usage
+[2026-08-05 20:11:15] Viewed Memory Usage
+[2026-08-05 20:11:19] Viewed Disk Usage Information
+[2026-08-05 20:11:26] Listed Active Services
+[2026-08-05 20:11:39] Created user account: vedant
+[2026-08-05 20:11:53] Created user account: nishant
+[2026-08-05 20:12:08] Deleted user account: vedant
+[2026-08-05 20:14:36] Backup Failed:  does not exist
+[2026-08-05 20:14:49] Created user account: anish
+[2026-08-05 20:15:31] Backup successful: /root/Linux-Autiomation-Toolkit/scripts/../backups/backup-anish_20260805_201531.tar.gz
+[2026-08-05 20:15:37] Analyzed log file: /var/log/secure
+[2026-08-05 20:15:41] Viewed Network Information
+[2026-08-05 21:48:14] Viewed System Information
+[2026-08-05 21:48:30] Viewed CPU Resource Usage
+[2026-08-05 21:49:35] Viewed Memory Usage
+[2026-08-05 21:50:11] Viewed Disk Usage Information
+[2026-08-05 21:58:53] Analyzed log file: /var/log/secure
+[2026-08-05 21:59:45] Viewed Network Information
+[2026-08-05 22:00:48] Viewed Network Information
+[2026-08-05 22:48:01] Viewed Network Information
+[2026-08-05 22:48:08] Viewed Network Information
